@@ -1,0 +1,1 @@
+ build\\web\\favicon.png build\\web\\icons\\Icon-192.png build\\web\\icons\\Icon-512.png build\\web\\index.html build\\web\\manifest.json:  E:\\flutterProject\\myapp\\web\\favicon.png E:\\flutterProject\\myapp\\web\\icons\\Icon-192.png E:\\flutterProject\\myapp\\web\\icons\\Icon-512.png E:\\flutterProject\\myapp\\web\\index.html E:\\flutterProject\\myapp\\web\\manifest.json
